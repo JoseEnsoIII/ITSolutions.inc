@@ -3,7 +3,7 @@ import React from 'react';
 const Contact= () => {
   return (
     <div>
-      <div className="breadcrumb-area" style={{backgroundImage: "url('./src/assets/images/bg/contact-us-bg.jpg')"}}>
+      <div className="breadcrumb-area" style={{backgroundImage: "url('/images/bg/contact-us-bg.jpg')"}}>
         <div className="container">
           <div className="row">
             <div className="col-12">

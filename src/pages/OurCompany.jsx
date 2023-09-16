@@ -6,7 +6,7 @@ function OurCompany() {
       document.title = "MetaCore Systems Inc. / Our Company";
     }, []);}
   return (
-    <div className="breadcrumb-area" style={{ backgroundImage: "url('./src/assets/images/solutions/school_management.png')" }}>
+    <div className="breadcrumb-area" style={{ backgroundImage: "url('/images/solutions/school_management.png')" }}>
       <div className="container">
         <div className="row">
           <div className="col-12">

@@ -6,7 +6,7 @@ const Hotel_Management = () => {
   }, []);
   return (
     <div>
-      <div className="breadcrumb-area" style={{backgroundImage: "url('./src/assets/images/solutions/school_management.png')"}}>
+      <div className="breadcrumb-area" style={{backgroundImage: "url('/images/solutions/school_management.png')"}}>
         <div className="container">
           <div className="row">
             <div className="col-12">
@@ -19,7 +19,7 @@ const Hotel_Management = () => {
         </div>
       </div>
 
-      <div className="feature-./src/assets/images-wrapper bg-gray section-space--ptb_100">
+      <div className="feature-/images-wrapper bg-gray section-space--ptb_100">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
@@ -34,10 +34,10 @@ const Hotel_Management = () => {
               <div className="feature-images__four">
                 <div className="row">
                   <div className="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                    <a href="#" className="ht-box-./src/assets/images style-04">
+                    <a href="#" className="ht-box-/images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="./src/assets/images/services/icons/reservations.svg" alt="" width="60" />
+                          <img className="img-fluid" src="/images/services/icons/reservations.svg" alt="" width="60" />
                         </div>
                         <div className="content">
                           <h5 className="heading">Reservations</h5>
@@ -47,10 +47,10 @@ const Hotel_Management = () => {
                     </a>
                   </div>
                   <div className="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                    <a href="#" className="ht-box-./src/assets/images style-04">
+                    <a href="#" className="ht-box-/images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="./src/assets/images/services/icons/hotel-bell.svg" alt="" width="60" />
+                          <img className="img-fluid" src="/images/services/icons/hotel-bell.svg" alt="" width="60" />
                         </div>
                         <div className="content">
                           <h5 className="heading">Front Desk</h5>
@@ -60,10 +60,10 @@ const Hotel_Management = () => {
                     </a>
                   </div>
                   <div className="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                    <a href="#" className="ht-box-./src/assets/images style-04">
+                    <a href="#" className="ht-box-/images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="./src/assets/images/services/icons/cashier.svg" alt="" width="60" />
+                          <img className="img-fluid" src="/images/services/icons/cashier.svg" alt="" width="60" />
                         </div>
                         <div className="content">
                           <h5 className="heading">Cashiering</h5>
@@ -73,10 +73,10 @@ const Hotel_Management = () => {
                     </a>
                   </div>
                   <div className="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                    <a href="#" className="ht-box-./src/assets/images style-04">
+                    <a href="#" className="ht-box-/images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="./src/assets/images/services/icons/room-key.svg" alt="" width="60" />
+                          <img className="img-fluid" src="/images/services/icons/room-key.svg" alt="" width="60" />
                         </div>
                         <div className="content">
                           <h5 className="heading">Room Management</h5>
@@ -86,10 +86,10 @@ const Hotel_Management = () => {
                     </a>
                   </div>
                   <div className="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                    <a href="#" className="ht-box-./src/assets/images style-04">
+                    <a href="#" className="ht-box-/images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="./src/assets/images/services/icons/calculator.svg" alt="" width="60" />
+                          <img className="img-fluid" src="/images/services/icons/calculator.svg" alt="" width="60" />
                         </div>
                         <div className="content">
                           <h5 className="heading">Accounting</h5>
@@ -99,10 +99,10 @@ const Hotel_Management = () => {
                     </a>
                   </div>
                   <div className="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                    <a href="#" className="ht-box-./src/assets/images style-04">
+                    <a href="#" className="ht-box-/images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="./src/assets/images/services/icons/barcode.svg" alt="" width="60" />
+                          <img className="img-fluid" src="/images/services/icons/barcode.svg" alt="" width="60" />
                         </div>
                         <div className="content">
                           <h5 className="heading">End of Day</h5>
