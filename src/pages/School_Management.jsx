@@ -7,7 +7,7 @@ function School_Management() {
     }, []);}
   return (
     <div>
-      <div className="breadcrumb-area" style={{ backgroundImage: "url('images/solutions/school_management.png')" }}>
+      <div className="breadcrumb-area" style={{ backgroundImage: "url('./src/assets/images/solutions/school_management.png')" }}>
         <div className="container">
           <div className="row">
             <div className="col-12">
@@ -36,7 +36,7 @@ function School_Management() {
                     <a href="#" className="ht-box-images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="images/services/icons/server.svg" alt="" width="50" />
+                          <img className="img-fluid" src="./src/assets/images/services/icons/server.svg" alt="" width="50" />
                         </div>
                         <div className="content">
                           <h6 className="heading">Academic Management</h6>
@@ -49,7 +49,7 @@ function School_Management() {
                     <a href="#" className="ht-box-images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="images/services/icons/students.svg" alt="" width="50" />
+                          <img className="img-fluid" src="./src/assets/images/services/icons/students.svg" alt="" width="50" />
                         </div>
                         <div className="content">
                           <h6 className="heading">Student Management</h6>
@@ -62,7 +62,7 @@ function School_Management() {
                     <a href="#" className="ht-box-images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="images/services/icons/attendance.svg" alt="" width="50" />
+                          <img className="img-fluid" src="./src/assets/images/services/icons/attendance.svg" alt="" width="50" />
                         </div>
                         <div className="content">
                           <h6 className="heading">Attendance Tracking</h6>
@@ -75,7 +75,7 @@ function School_Management() {
                     <a href="#" className="ht-box-images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="images/services/icons/transcript.svg" alt="" width="50" />
+                          <img className="img-fluid" src="./src/assets/images/services/icons/transcript.svg" alt="" width="50" />
                         </div>
                         <div className="content">
                           <h6 className="heading">Grading Management</h6>
@@ -88,7 +88,7 @@ function School_Management() {
                     <a href="#" className="ht-box-images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="images/services/icons/books.svg" alt="" width="50" />
+                          <img className="img-fluid" src="./src/assets/images/services/icons/books.svg" alt="" width="50" />
                         </div>
                         <div className="content">
                           <h6 className="heading">Learning Management</h6>
@@ -101,7 +101,7 @@ function School_Management() {
                     <a href="#" className="ht-box-images style-04">
                       <div className="image-box-wrap">
                         <div className="box-image">
-                          <img className="img-fluid" src="images/services/icons/communications.svg" alt="" width="50" />
+                          <img className="img-fluid" src="./src/assets/images/services/icons/communications.svg" alt="" width="50" />
                         </div>
                         <div className="content">
                           <h6 className="heading">Communications</h6>

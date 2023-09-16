@@ -6,7 +6,7 @@ const Sales_Inventory = () => {
       document.title = "MetaCore Systems Inc. / Sales Inventory";
       }, [])}
   return (
-    <div className="breadcrumb-area" style={{ backgroundImage: "url('images/solutions/school_management.png')" }}>
+    <div className="breadcrumb-area" style={{ backgroundImage: "url('./src/assets/images/solutions/school_management.png')" }}>
     <div className="container">
       <div className="row">
         <div className="col-12">

@@ -9,7 +9,7 @@ function Section() {
             <div className="col-lg-4 col-md-6 col-sm-6 footer-widget">
               <div className="footer-widget__logo mb-30">
                 <img
-                  src="images/brand/meta_core_rec_logo.svg"
+                  src="./src/assets/images/brand/meta_core_rec_logo.svg"
                   className="img-fluid"
                   alt=""
                   width="230"

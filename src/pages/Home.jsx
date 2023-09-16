@@ -16,7 +16,7 @@ function Home() {
           <div className="col-lg-4 col-md-5">
             <div className="processing-hero-images-wrap">
               <div className="processing-hero-images">
-                <img className="img-fluid" src="images/bg/slider-processing-slide-01-image-01.png" alt="" />
+                <img className="img-fluid" src="./src/assets/images/bg/slider-processing-slide-01-image-01.png" alt="" />
               </div>  
             </div>
           </div>
@@ -150,7 +150,7 @@ function Home() {
               <div className="ht-banner-01">
                 <img
                   className="img-fluid border-radus-5 animation_images one wow fadeInDown animated"
-                  src="images/about_us/home-processing-video-intro-slider-slide-01-image-02.jpg"
+                  src="./src/assets/images/about_us/home-processing-video-intro-slider-slide-01-image-02.jpg"
                   alt=""
                   style={{ visibility: 'visible', animationName: 'animateUpDown' }}
                 />
@@ -159,7 +159,7 @@ function Home() {
               <div className="ht-banner-02">
                 <img
                   className="img-fluid border-radus-5 animation_images two wow fadeInDown animated"
-                  src="images/about_us/home-processing-video-intro-slider-slide-01-image-03.jpg"
+                  src="./src/assets/images/about_us/home-processing-video-intro-slider-slide-01-image-03.jpg"
                   alt=""
                   style={{ visibility: 'visible', animationName: 'animateUpDown' }}
                 />
@@ -170,7 +170,7 @@ function Home() {
                   <div className="single-popup-wrap">
                     <img
                       className="img-fluid border-radus-5"
-                      src="images/about_us/home-processing-video-intro-slider-slide-01-image-01.jpg"
+                      src="./src/assets/images/about_us/home-processing-video-intro-slider-slide-01-image-01.jpg"
                       alt=""
                     />
                     <div className="ht-popup-video video-button">
@@ -191,7 +191,7 @@ function Home() {
               <div className="ht-banner-03">
                 <img
                   className="img-fluid border-radus-5 animation_images three wow fadeInDown animated"
-                  src="images/about_us/home-processing-video-intro-slider-slide-01-image-04.jpg"
+                  src="./src/assets/images/about_us/home-processing-video-intro-slider-slide-01-image-04.jpg"
                   alt=""
                   style={{ visibility: 'visible', animationName: 'animateUpDown' }}
                 />
@@ -200,7 +200,7 @@ function Home() {
               <div className="ht-banner-04">
                 <img
                   className="img-fluid border-radus-5 animation_images four wow fadeInDown animated"
-                  src="images/about_us/home-processing-video-intro-slider-slide-01-image-05.jpg"
+                  src="./src/assets/images/about_us/home-processing-video-intro-slider-slide-01-image-05.jpg"
                   alt=""
                   style={{ visibility: 'visible', animationName: 'animateUpDown' }}
                 />
@@ -234,7 +234,7 @@ function Home() {
                   <a href="" className="ht-box-images style-02">
                     <div className="image-box-wrap">
                       <div className="box-image">
-                        <img className="img-fulid" src="images/services/home_icons/cloud_backup.svg" alt="" width="80" />
+                        <img className="img-fulid" src="./src/assets/images/services/home_icons/cloud_backup.svg" alt="" width="80" />
                       </div>
                       <div className="content">
                         <h6 className="heading">Backup and Recovery</h6>
@@ -246,7 +246,7 @@ function Home() {
                   <a href="" className="ht-box-images style-02">
                     <div className="image-box-wrap">
                       <div className="box-image">
-                        <img className="img-fulid" src="images/services/home_icons/cloud_management.svg" alt="" width="80" />
+                        <img className="img-fulid" src="./src/assets/images/services/home_icons/cloud_management.svg" alt="" width="80" />
                       </div>
                       <div className="content">
                         <h6 className="heading">Cloud Computing and Management</h6>
@@ -258,7 +258,7 @@ function Home() {
                   <a href="" className="ht-box-images style-02">
                     <div className="image-box-wrap">
                       <div className="box-image">
-                        <img className="img-fulid" src="images/services/home_icons/security_compliance.svg" alt="" width="80" />
+                        <img className="img-fulid" src="./src/assets/images/services/home_icons/security_compliance.svg" alt="" width="80" />
                       </div>
                       <div className="content">
                         <h6 className="heading">IT Security & Compliance</h6>
@@ -270,7 +270,7 @@ function Home() {
                   <a href="" className="ht-box-images style-02">
                     <div className="image-box-wrap">
                       <div className="box-image">
-                        <img className="img-fulid" src="images/services/home_icons/software_dev.svg" alt="" width="80" />
+                        <img className="img-fulid" src="./src/assets/images/services/home_icons/software_dev.svg" alt="" width="80" />
                       </div>
                       <div className="content">
                         <h6 className="heading">Software Development</h6>
@@ -282,7 +282,7 @@ function Home() {
                   <a href="" className="ht-box-images style-02">
                     <div className="image-box-wrap">
                       <div className="box-image">
-                        <img className="img-fulid" src="images/services/home_icons/networking.svg" alt="" width="80" />
+                        <img className="img-fulid" src="./src/assets/images/services/home_icons/networking.svg" alt="" width="80" />
                       </div>
                       <div className="content">
                         <h6 className="heading">Network Infrastructure</h6>
@@ -294,7 +294,7 @@ function Home() {
                   <a href="" className="ht-box-images style-02">
                     <div className="image-box-wrap">
                       <div className="box-image">
-                        <img className="img-fulid" src="images/services/consultations.svg" alt="" width="80" />
+                        <img className="img-fulid" src="./src/assets/images/services/consultations.svg" alt="" width="80" />
                       </div>
                       <div className="content">
                         <h6 className="heading">IT Consultancy</h6>

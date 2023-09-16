@@ -45,7 +45,7 @@ function Header() {
               <div className="header position-relative">
                 <div className="header__logo">
                   <a href="/">
-                    <img src="images/brand/meta_core_rec_logo.svg" className="img-fluid" width="350" alt="Meta Core Systems Inc. Logo" />
+                    <img src="./src/assets/images/brand/meta_core_rec_logo.svg" className="img-fluid" width="350" alt="Meta Core Systems Inc. Logo" />
                   </a>
                 </div>
                 <div className="header-right">
